@@ -1,0 +1,18 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": false,
+  "autoStart": false,
+  "websites" : [
+    {
+      "url" : "http://dscon.com.br/mantis/ds/my_view_page.php",
+      "duration" : 10,
+      "tabReloadIntervalSeconds": 15
+  },
+    {
+      "url" : "http://dscon.com.br",
+      "duration" : 10,
+      "tabReloadIntervalSeconds": 15
+    },
+
+  ]
+}
